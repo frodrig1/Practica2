@@ -78,5 +78,3 @@ jobs:
           fi
 
           echo "Clasificación de etapa de vida: $etapa"
-
-          
